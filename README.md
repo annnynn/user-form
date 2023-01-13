@@ -1,2 +1,2 @@
 # user-form
-trying to manipulate with dom on html inputs 
+trying to manipulate by dom on html inputs 
