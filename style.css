@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: gainsboro;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 90%;
+    height: 400px;
+    padding-top: 50px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+input {
+    height: 25px;
+    border: 0;
+    border-radius: 5px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 0;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.error {
+    color: red;
+}
