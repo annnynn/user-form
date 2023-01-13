@@ -1,2 +1,2 @@
 # user-form
-interactive user form using html css and js 
+trying to manipulate with dom on html inputs 
